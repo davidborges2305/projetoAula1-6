@@ -1,6 +1,6 @@
 package main;
 
-public class Classeprint {
+class classeprint {
     public static void main(String[] args) {
         int idade = 30;
         double altura = 1.74;
